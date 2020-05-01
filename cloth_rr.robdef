@@ -1,0 +1,12 @@
+#Service to provide sample interface to webcams
+service cloth_rr
+
+
+option version 0.5
+
+
+object Cloth
+
+function double[] getcloth()    
+
+end object
